@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.csprojAssemblyReference.cache
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.fmAbout.resources
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.fmMain.resources
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.Properties.Resources.resources
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.csproj.GenerateResource.cache
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\TextFinder\bin\Debug\TextFinder.exe.config
+C:\Users\John\source\repos\TextFinder\bin\Debug\TextFinder.exe
+C:\Users\John\source\repos\TextFinder\bin\Debug\TextFinder.pdb
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.exe
+C:\Users\John\source\repos\TextFinder\obj\Debug\TextFinder.pdb
